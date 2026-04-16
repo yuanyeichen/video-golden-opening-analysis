@@ -1,0 +1,128 @@
+{
+  "video_id": "7567727154772708654",
+  "video_path": "video-analysis/downloads/7567727154772708654.mp4",
+  "fps": 1,
+  "max_seconds": 16,
+  "total_frames": 17,
+  "frames": [
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_00.00s_highlight.jpg",
+      "filename": "frame_00.00s_highlight.jpg",
+      "timestamp": 0.0,
+      "highlight": true,
+      "size_bytes": 97793
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_00.97s_highlight.jpg",
+      "filename": "frame_00.97s_highlight.jpg",
+      "timestamp": 0.97,
+      "highlight": true,
+      "size_bytes": 91509
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_01.94s.jpg",
+      "filename": "frame_01.94s.jpg",
+      "timestamp": 1.94,
+      "highlight": false,
+      "size_bytes": 93840
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_02.90s.jpg",
+      "filename": "frame_02.90s.jpg",
+      "timestamp": 2.9,
+      "highlight": false,
+      "size_bytes": 93598
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_03.87s.jpg",
+      "filename": "frame_03.87s.jpg",
+      "timestamp": 3.87,
+      "highlight": false,
+      "size_bytes": 99930
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_04.84s.jpg",
+      "filename": "frame_04.84s.jpg",
+      "timestamp": 4.84,
+      "highlight": false,
+      "size_bytes": 98680
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_05.81s_highlight.jpg",
+      "filename": "frame_05.81s_highlight.jpg",
+      "timestamp": 5.81,
+      "highlight": true,
+      "size_bytes": 97666
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_06.77s.jpg",
+      "filename": "frame_06.77s.jpg",
+      "timestamp": 6.77,
+      "highlight": false,
+      "size_bytes": 89443
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_07.74s.jpg",
+      "filename": "frame_07.74s.jpg",
+      "timestamp": 7.74,
+      "highlight": false,
+      "size_bytes": 100386
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_08.71s.jpg",
+      "filename": "frame_08.71s.jpg",
+      "timestamp": 8.71,
+      "highlight": false,
+      "size_bytes": 90754
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_09.68s.jpg",
+      "filename": "frame_09.68s.jpg",
+      "timestamp": 9.68,
+      "highlight": false,
+      "size_bytes": 92283
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_10.64s_highlight.jpg",
+      "filename": "frame_10.64s_highlight.jpg",
+      "timestamp": 10.64,
+      "highlight": true,
+      "size_bytes": 95669
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_11.61s.jpg",
+      "filename": "frame_11.61s.jpg",
+      "timestamp": 11.61,
+      "highlight": false,
+      "size_bytes": 99423
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_12.58s.jpg",
+      "filename": "frame_12.58s.jpg",
+      "timestamp": 12.58,
+      "highlight": false,
+      "size_bytes": 95054
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_13.55s.jpg",
+      "filename": "frame_13.55s.jpg",
+      "timestamp": 13.55,
+      "highlight": false,
+      "size_bytes": 94238
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_14.51s.jpg",
+      "filename": "frame_14.51s.jpg",
+      "timestamp": 14.51,
+      "highlight": false,
+      "size_bytes": 101727
+    },
+    {
+      "path": "video-analysis/frames/7567727154772708654/frame_15.48s_highlight.jpg",
+      "filename": "frame_15.48s_highlight.jpg",
+      "timestamp": 15.48,
+      "highlight": true,
+      "size_bytes": 96076
+    }
+  ]
+}
